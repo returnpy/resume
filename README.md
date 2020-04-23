@@ -13,7 +13,7 @@
 		CSS
 			less scss stylus
 		JavaScript
-			AJAX JQuery Promise NodeJS Npm Vue
+			AJAX JQuery Promise NodeJS Npm Vue及周边生态
 		UI 框架
 			Element-UI Ant-Design-Vue Cube-ui
 	后端
